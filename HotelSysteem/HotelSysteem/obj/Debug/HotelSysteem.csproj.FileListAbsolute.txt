@@ -1,0 +1,11 @@
+C:\Users\timwi\source\repos\HotelSysteem\HotelSysteem\bin\Debug\HotelSysteem.exe.config
+C:\Users\timwi\source\repos\HotelSysteem\HotelSysteem\bin\Debug\HotelSysteem.exe
+C:\Users\timwi\source\repos\HotelSysteem\HotelSysteem\bin\Debug\HotelSysteem.pdb
+C:\Users\timwi\source\repos\HotelSysteem\HotelSysteem\obj\Debug\HotelSysteem.csprojAssemblyReference.cache
+C:\Users\timwi\source\repos\HotelSysteem\HotelSysteem\obj\Debug\HotelSysteem.Form1.resources
+C:\Users\timwi\source\repos\HotelSysteem\HotelSysteem\obj\Debug\HotelSysteem.Properties.Resources.resources
+C:\Users\timwi\source\repos\HotelSysteem\HotelSysteem\obj\Debug\HotelSysteem.csproj.GenerateResource.cache
+C:\Users\timwi\source\repos\HotelSysteem\HotelSysteem\obj\Debug\HotelSysteem.csproj.CoreCompileInputs.cache
+C:\Users\timwi\source\repos\HotelSysteem\HotelSysteem\obj\Debug\HotelSysteem.exe
+C:\Users\timwi\source\repos\HotelSysteem\HotelSysteem\obj\Debug\HotelSysteem.pdb
+C:\Users\timwi\source\repos\HotelSysteem\HotelSysteem\obj\Debug\HotelSysteem.overview.resources
