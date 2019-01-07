@@ -33,5 +33,19 @@ namespace HotelSysteem
             this.Hide();
             form.Show();
         }
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+            Graphics Graphics = e.Graphics;
+            Graphics.DrawEllipse(Pens.Blue, 460, 22, 75, 75);
+            SolidBrush fillbrush = new SolidBrush(Color.Green);
+            Graphics.FillEllipse(fillbrush, new Rectangle(460,22,74,74));
+            Point p1 = new Point();
+            p1.X = 430;
+            p1.Y = 60;
+            Point p2 = new Point();
+            p2.X = 570;
+            p2.Y = 60;
+            Graphics.DrawLine(Pens.Red, p2, p1);
+        }
     }
 }

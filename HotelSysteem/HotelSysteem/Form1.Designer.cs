@@ -154,6 +154,7 @@
             this.Controls.Add(this.gbxBox);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);
             this.gbxBox.ResumeLayout(false);
             this.gbxBox.PerformLayout();
             this.ResumeLayout(false);
